@@ -1,6 +1,6 @@
 /* 
 	Author: Chenhao Wei
-	I get some help from my friend Tianchen Liu about some STL Cylinder structure.
+	I get some help from my friend Tianchen Liu about some STL Cylinder structure.And be inspired for the cube from my deeplearning class teammates.
     	It is a really hard work.
 */
 
