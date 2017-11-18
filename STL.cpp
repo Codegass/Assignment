@@ -79,9 +79,7 @@ public:
 
 		string print(){
 				string output_result="";
-				output_result=triangle_print(1, 0)+triangle_print_reverse(-1, 0)+
-											triangle_print_reverse(1, 1)+triangle_print(-1, 1)+
-											triangle_print(1, 2)+triangle_print_reverse(-1, 2);
+				output_result=triangle_print(1, 0)+triangle_print_reverse(-1, 0)+triangle_print_reverse(1, 1)+triangle_print(-1, 1)+triangle_print(1, 2)+triangle_print_reverse(-1, 2);
 				return output_result;
 		}
 };
